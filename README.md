@@ -147,10 +147,6 @@ python manage.py makemigrations news
 python manage.py migrate
 ```
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 🤝 Contribuição
 
 1. Faça um fork do projeto
