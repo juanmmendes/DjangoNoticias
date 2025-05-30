@@ -62,5 +62,3 @@ try:
     from .settings_local import NEWS_API_KEY
 except ImportError:
     NEWS_API_KEY = 'your_newsapi_key_here'  # Fallback
-# settings_local.py (criado automaticamente pelo script)
-NEWS_API_KEY = 'sua_chave_real_da_newsapi_aqui'
