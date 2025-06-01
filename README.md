@@ -155,9 +155,6 @@ python manage.py migrate
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📞 Suporte
-
-Se você encontrar algum problema ou tiver alguma dúvida, abra uma [issue](https://github.com/seu-usuario/django-noticias/issues) no GitHub.
 
 ---
 
